@@ -1,13 +1,19 @@
-    @import url(https://fonts.googleapis.com/css?family=Pacifico|Trade+Winds&display=swap);
+    @import url(https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap);
+    @import url(https://fonts.googleapis.com/css?family=Berkshire+Swash|Just+Another+Hand&display=swap);
     .fonte {
         font-size: 5.5em;
-        font-family: 'Pacifico';
+        font-family: 'Berkshire Swash', cursive;
     }
     
     .fonte1 {
-        font-size: 1.5em;
+        font-size: 2.5em;
+        font-family: 'Just Another Hand', cursive;
+        color: white;
     }
     
     .gradiente {
-        background-image: linear-gradient(to bottom right, #f8a5c2, #63cdda);
+        /*background-image: linear-gradient(to bottom right, #f8a5c2, #63cdda);*/
+
+        background:url('../img/banner.jpg');
     }
+
