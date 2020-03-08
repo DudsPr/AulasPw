@@ -13,7 +13,14 @@
     
     .gradiente {
         /*background-image: linear-gradient(to bottom right, #f8a5c2, #63cdda);*/
-
-        background:url('../img/banner.jpg');
+        background: url('../img/banner.jpg');
     }
-
+    
+    h5 {
+        color: white;
+        margin-top: 3em;
+    }
+    
+    .sub-rodape {
+        color: white;
+    }
