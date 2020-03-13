@@ -24,3 +24,17 @@
     .sub-rodape {
         color: white;
     }
+    
+    .h1-rodape {
+        color: white;
+        margin-top: 2em;
+    }
+    
+    .butao {
+        margin-top: 8em;
+    }
+    
+    .icons-rodape {
+        width: 4em;
+        height: 4em;
+    }
